@@ -1,0 +1,87 @@
+{
+  "powermode.enableStatusBarComboTimer": true,
+  "editor.fontLigatures": true,
+  "vscode_custom_css.imports": [
+    "file:///E:/BKDN/Learning/Project_FE/CustomVSCode/asstets/css/color.css"
+  ],
+  "code-runner.runInTerminal": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.confirmDelete": false,
+  "editor.lineHeight": 29,
+  "editor.letterSpacing": 0.5,
+  "terminal.integrated.letterSpacing": 0.5,
+  "editor.minimap.enabled": false,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "tabnine.experimentalAutoImports": true,
+  "code-runner.executorMap": {
+    "cpp": "cd $dir && g++ -std=c++14 *.cpp  -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+  },
+  "editor.suggest.preview": true,
+  "background.useDefault": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "[javascript][typescript]": {
+    "editor.maxTokenizationLineLength": 2500
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontFamily": "SF Mono Ligatures ,monospace",
+  "powermode.combo.counterEnabled": "hide",
+  "code.runner.excutorMap": {
+    "javascript": "node"
+  },
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "editor.accessibilitySupport": "off",
+  "editor.wordWrap": "on",
+  "powermode.combo.threshold": 4,
+  "indentRainbow.colors": [
+    "rgba(3, 4, 94,0.15)",
+    "rgba(2, 62, 138,0.15)",
+    "rgba(0, 119, 182, 0.15)",
+    "rgba(0, 150, 199,0.15)",
+    "rgba(0, 180, 216,0.15)",
+    "rgba(72, 202, 228,0.15)",
+    "rgba(144, 224, 239,0.15)",
+    "rgba(144, 224, 239,0.1)",
+    "rgba(144, 224, 239,0.05)",
+    "rgba(144, 224, 239,0.025)"
+  ],
+  "indentRainbow.tabmixColor": "rgba(128,32,96,0)",
+  "indentRainbow.errorColor": "rgba(128,32,32,0)",
+  "editor.formatOnSave": true,
+  "powermode.enabled": true,
+  "powermode.combo.timerEnabled": "hide",
+  "powermode.shake.enabled": false,
+  "powermode.shake.intensity": 2,
+  "editor.cursorBlinking": "expand",
+  "editor.fontSize": 13,
+  "files.autoSave": "afterDelay",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.commandPalette.experimental.suggestCommands": true,
+  "githubPullRequests.pullBranch": "never",
+  "editor.tabSize": 2,
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html"
+  },
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "window.zoomLevel": 0,
+  "javascript.format.enable": false,
+  "javascript.format.insertSpaceAfterCommaDelimiter": false,
+  "workbench.colorTheme": "Evondev Dracula Night Contrast",
+  "vscode-pets.throwBallWithMouse": true,
+  "vscode-pets.theme": "beach"
+}
